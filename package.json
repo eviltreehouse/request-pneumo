@@ -10,7 +10,8 @@
   "author": "Corey Sharrah <corey@eviltreehouse.com>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^7.1.1"
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.2"
   },
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
