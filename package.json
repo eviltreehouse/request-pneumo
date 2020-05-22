@@ -1,10 +1,10 @@
 {
   "name": "request-pneumo",
   "version": "1.0.0",
-  "description": "Federate HTTP[S] via multiple proxies",
+  "description": "Automatically federate HTTP[S] requests via multiple cascading proxies",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "keywords": [],
   "author": "Corey Sharrah <corey@eviltreehouse.com>",
