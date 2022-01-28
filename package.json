@@ -16,6 +16,6 @@
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
     "node-socks-proxy-agent": "^4.0.1",
-    "simple-get": "^3.1.0"
+    "simple-get": "^4.0.1"
   }
 }
